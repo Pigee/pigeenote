@@ -1,0 +1,4 @@
+1,Add sqlite3 for flutter android
+  cd to project/
+  flutter pub add sqlite3
+  flutter pub add sqlite3_flutter_libs
